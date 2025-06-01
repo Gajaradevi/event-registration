@@ -1,2 +1,2 @@
 # event-registration
-This new registration form
+This new registration form.
